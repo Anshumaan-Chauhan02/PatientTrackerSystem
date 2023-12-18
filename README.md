@@ -2,9 +2,17 @@
 
 ## 1. Project Description
 
-The Patient Tracker System is a comprehensive solution for medical institutions to efficiently manage patient information, doctor details, appointments, and medical cases. It offers a user-friendly interface for doctors and staff to streamline their workflow and enhance patient care.
+The Patient Tracker System is a comprehensive solution for medical institutions to efficiently manage patient information, doctor details, appointments, and medical cases. It offers a user-friendly interface for doctors and staff to streamline their workflow and enhance patient care. The frontend implementation of the project can be found here: [UI Github](https://github.com/Anshumaan-Chauhan02/PatientTrackerSystem-UI)
 
-## 2. System and Library Requirements
+## 2. Technical Skills
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 3. System and Library Requirements
 
 Before running the Patient Tracker System, ensure that your system meets the following requirements:
 
@@ -21,7 +29,7 @@ TODO: Update Java version
 4. Mysql:  `8.1.0`
 
 
-## 3. How to Run the Project Locally
+## 4. How to Run the Project Locally
 
 Follow these steps to run the Patient Tracker System on your local machine:
 
@@ -65,7 +73,7 @@ If a Java JDK is not installed or properly configured on your system, you may en
 Make sure that you have a JDK installed and that the JAVA_HOME environment variable is properly set.
 
 
-## 4. High-Level Component Descriptions
+## 5. High-Level Component Descriptions
 
 #### Commons
 - dto: Contains the request/response contract agreed with the frontend that the APIs must adhere to.
